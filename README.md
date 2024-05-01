@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on front-end dev
 - 🌱 I’m currently learning about data science and analyst
 
-  Lover of books 📚, cult films 🎥, and homebody vibes 🏡. Let's connect over shared interests!"
+  Lover of books 📚, cult films 🎥, and homebody vibes 🏡. Let's connect over shared interests!
 
 - 📫 How to reach me:
 
