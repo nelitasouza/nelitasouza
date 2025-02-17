@@ -7,7 +7,7 @@
 
   Lover of books 📚, cult films 🎥, and homebody vibes 🏡. Let's connect over shared interests!
 
-- 📫 How to reach me:
+- 📫 How to reach me: nelita.souza7@gmail.com
 
 
   
