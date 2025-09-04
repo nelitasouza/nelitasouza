@@ -15,4 +15,5 @@
 
  # Let's code together! 💻✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelitasouza&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelitasouza&show_icons=true&theme=dracula)
+
