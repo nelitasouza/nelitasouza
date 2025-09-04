@@ -15,7 +15,7 @@
 
  # Let's code together! 💻✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelitasouza&show_icons=true&theme=dracula) ![<<!nav>>Top langs<<!/nav>>](https://github-readme-stats.vercel.app/api/top-langs/?username=nelitasouza&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelitasouza&show_icons=true&theme=dracula)   ![<<!nav>>Top langs<<!/nav>>](https://github-readme-stats.vercel.app/api/top-langs/?username=nelitasouza&theme=dracula)
 
 
 
