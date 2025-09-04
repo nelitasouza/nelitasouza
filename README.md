@@ -1,6 +1,6 @@
  # Hi there 👋
 
-🇧🇷 Brazilian, 29 years old, passionate about technology! 👩🏾‍💻 Bachelor's student in Data Science and constantly learning as a full stack developer. Sharing my projects and experiences here. 
+🎯 Brazilian, 29 years old, passionate about technology! 👩🏾‍💻 Bachelor's student in Data Science and constantly learning as a full stack developer. Sharing my projects and experiences here. 
 
 - 🔭 I’m currently working on front-end dev
 - 🌱 I’m currently learning about data science and analyst
